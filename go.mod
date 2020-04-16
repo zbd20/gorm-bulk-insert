@@ -1,4 +1,4 @@
-module github.com/zbd20/gorm-bulk-insert
+module github.com/zbd20/gorm-bulk-insert/v2
 
 go 1.13
 
